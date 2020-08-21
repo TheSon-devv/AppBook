@@ -16,7 +16,7 @@ export default class HomeScreen extends Component{
 
         return(
             <View>
-                <HeaderHome />
+                
                 <View>
                     <SectionHome1 />
                 </View>
